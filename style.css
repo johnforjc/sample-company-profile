@@ -68,3 +68,8 @@
 .color-1 {
   color: #0c2f50;
 }
+
+.top-down {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
