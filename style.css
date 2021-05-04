@@ -10,8 +10,12 @@
   background-color: #f5f5f5;
 }
 
+<<<<<<< HEAD
 #testimonial
 {
+=======
+#testimonial {
+>>>>>>> d985c0638ebc3ee4fba3f850d7976405b906b14d
   padding: 10px;
 }
 
@@ -48,6 +52,12 @@
   z-index: -1;
 }
 
+.testimonial-container
+{
+  width: 100%;
+  padding: 10px;
+}
+
 .font-open {
   font-family: "Open Sans", sans-serif;
 }
@@ -70,13 +80,17 @@
   background-color: #0c2f50;
 }
 
-.bg-2
-{
+.bg-2 {
   background-color: white;
 }
 
 .color-1 {
   color: #0c2f50;
+}
+
+.text-justify
+{
+  text-align: justify;
 }
 
 .my-img-card
